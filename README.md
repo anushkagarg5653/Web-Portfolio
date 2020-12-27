@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://anushkagarg.netlify.app/">
-    <img alt="Anushka" src="C:\Users\ANUSHKA GARG\Desktop\new\my-gatsby-project\Capture.JPG" />
+    <img alt="Anushka" src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/Capture.JPG" />
   </a>
 </p>
 <h1 align="center">
