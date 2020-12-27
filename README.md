@@ -7,8 +7,8 @@
   My Portfolio Website
 </h1>
 
-
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. 
+This is my portfolio webite this is a Playful and Colorful One-Page portfolio featuring Parallax effects and animations. 
+<br>
 [**Website Link**](https://anushkagarg.netlify.app/)
 
 ## ✨ Features
