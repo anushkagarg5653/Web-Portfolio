@@ -1,18 +1,40 @@
-<p align="center">
-  <a href="https://anushkagarg.netlify.app/">
-    <img alt="Anushka" src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/Capture.JPG" />
-  </a>
+<h2 align="center">My Portfolio </h2>
+<p align = "center">
+<img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/1.png" /></p>
+
+
 </p>
-<h1 align="center">
-  My Portfolio Website
-</h1>
 
-This is my portfolio webite this is a Playful and Colorful One-Page portfolio featuring Parallax effects and animations. 
+## :bulb: Built Using
+
+- [**HTML**]
+- [**CSS X**]
+- [**JAVASCRIPT**]
+---
+
+## :iphone: Screenshots
+
+|                                   |                                   |
+| --------------------------------- | --------------------------------- |
+| <img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/1.png"  width="300"/> | <img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/2.png"  width="300"/> |
+| <img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/3.png" width="300"/>  | <img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/4.png" width="300"/>  |
+| <img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/5.png" width="300"/>  | <img src="https://github.com/anushkagarg5653/Web-Portfolio/blob/main/img/portfolio/large/project-1/6.png" width="300"/> 
+
+---
+
+
+## :heart: Found this project interesting?
+
 <br>
-[**Website Link**](https://anushkagarg.netlify.app/)
 
-## ✨ Features
+## If you found this project useful, then please show some love by giving it a :star: or fork it. All the suggestions are welcome
 
-- Theme UI-based theming
-- react-spring parallax effect
-- CSS Animations on Shapes
+<br>
+<!-- CONTACT -->
+
+## 👱‍♀️: Project Created & Maintained By -
+
+- **Hey guys, I'm Anushka. Find out more about me** [ here](https://www.linkedin.com/in/anushka-garg-b6759318a/)
+- **Reach out to me at** [anushkagarg0811@gmail.com](anushkagarg0811@gmail.com)
+
+<h3 align="right">Built with :heart: by Anushka Garg</h3>
