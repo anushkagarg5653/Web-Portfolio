@@ -27,12 +27,11 @@
 
 <br>
 
-## If you found this project useful, then please show some love by giving it a :star: or fork it. All the suggestions are welcome
-
+## If you found this project useful, feel free to show some love by giving it a :star:
 <br>
 <!-- CONTACT -->
 
-## 👱‍♀️: Project Created & Maintained By -
+## 🧚‍♀️: Project Created & Maintained By -
 
 - **Hey guys, I'm Anushka. Find out more about me** [ here](https://www.linkedin.com/in/anushka-garg-b6759318a/)
 - **Reach out to me at** [anushkagarg0811@gmail.com](anushkagarg0811@gmail.com)
